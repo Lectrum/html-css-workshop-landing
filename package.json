@@ -1,0 +1,16 @@
+{
+    "name": "html-css-workshop",
+    "version": "1.0.0",
+    "author": "Andrey Prisniiak <aprisniak@lectrum.io>",
+    "private": true,
+    "scripts": {
+        "start": "gulp"
+    },
+    "dependencies": {
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^7.0.1",
+        "gulp-imagemin": "^7.1.0",
+        "gulp-uglify": "^3.0.2",
+        "readable-stream": "^3.6.0"
+    }
+}
