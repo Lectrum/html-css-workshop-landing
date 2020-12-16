@@ -1,7 +1,4 @@
 <h1 align="center">
-    <a href="https://lectrum.io" target="_blank" rel="noopener noreferrer">
-        <img src="./public/logo-woodsmoke.svg" alt="Lectrum favicon" width="25" />
-    </a>
     Воркшоп по продвинутой вёрстке
 </h1>
 <br>
